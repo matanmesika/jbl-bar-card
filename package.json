@@ -1,6 +1,6 @@
 {
   "name": "jbl-bar-card",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Home Assistant dashboard card for the JBL Bar 9.1 (jbl_bar_91 integration).",
   "type": "module",
   "private": true,
